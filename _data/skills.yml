@@ -1,5 +1,6 @@
 languages:
   - item: Python
+  - item: Java
   - item: JavaScript (ES6)
   - item: TypeScript
   - item: HTML
@@ -25,7 +26,6 @@ tools:
   - item: Tensorflow
   - item: Docker
   - item: Git & Github
-  - item: Gulp
   - item: Chrome DevTools
   - item: Postman
   - item: Figma
