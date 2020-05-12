@@ -1,33 +1,40 @@
 languages:
+  - item: Python
   - item: JavaScript (ES6)
   - item: TypeScript
   - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+  - item: CSS
 
 frameworks:
-  - item: Ember & Glimmer
   - item: React
-  - item: Jekyll
   - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Flutter
+  - item: Fabric
+  - item: Apollo
+  - item: GraphQL
+  - item: BS4(BeautifulSoup)
+  - item: Selenium
+  - item: Flask
+  - item: Angular
+  - item: Ionic
 
 tools:
   - item: Bash
+  - item: PyTorch
+  - item: Anaconda
+  - item: Tensorflow
+  - item: Docker
   - item: Git & Github
-  - item: Gulp & Grunt
+  - item: Gulp
   - item: Chrome DevTools
   - item: Postman
-  - item: MongoDB
-
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Figma
+  
+AI :
+  - item: NLP
+  - item: Bert & KoBert
+  - item: Transformers
+  - item: Word2Vec
+  - item: NER
+  - item: GAN
+  - item: CNN
