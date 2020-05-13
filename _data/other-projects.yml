@@ -1,7 +1,7 @@
 - name: PlanetEarth
   url: https://github.com/planetEarth1886/website
   code: https://github.com/planetEarth1886/website
-  description: 
+  description: description
   used:
     - thing: JavaScript(ES6)
     - thing: React
@@ -10,7 +10,7 @@
 - name: DisCountDown (EWHA ORDA)
   url: https://lhky78.github.io/disCountDown.pdf
   code: 
-  description: 
+  description: description
   used:
     - thing: Flutter
     - thing: Node
@@ -20,7 +20,7 @@
 - name: Rockle
   url: https://github.com/lhky78/Rockle
   code: https://github.com/lhky78/Rockle
-  description: 
+  description: description
   used:
     - thing: HTML & CSS
     - thing: EJS
@@ -30,7 +30,7 @@
 - name: Rodang (Ewah LEAP Proj.)
   url: https://github.com/lhky78/RODANG_Leap
   code: https://github.com/lhky78/RODANG_Leap
-  description: 
+  description: description
   used:
     - thing: Android Studio(JAVA)
     - thing: Node
@@ -38,7 +38,7 @@
 - name: CommonGood (Gokathon2020)
   url: https://github.com/lhky78/commongoodhack
   code: https://github.com/lhky78/commongoodhack
-  description: 
+  description: description
   used:
     - thing: React
     - thing: Node
