@@ -1,8 +1,45 @@
-- name: DisCountDown
-  url: 
+- name: PlanetEarth
+  url: https://github.com/planetEarth1886/website
+  code: https://github.com/planetEarth1886/website
+  description: 
+  used:
+    - thing: JavaScript(ES6)
+    - thing: React
+    - thing: Node
+    
+- name: DisCountDown (EWHA ORDA)
+  url: https://lhky78.github.io/disCountDown.pdf
   code: 
-  description: discountdown
+  description: 
   used:
     - thing: Flutter
     - thing: Node
-    - thing: Ruby
+    - thing: JavaScript
+    - thing: Android
+
+- name: Rockle
+  url: https://github.com/lhky78/Rockle
+  code: https://github.com/lhky78/Rockle
+  description: 
+  used:
+    - thing: HTML & CSS
+    - thing: EJS
+    - thing: Node
+
+
+- name: Rodang (Ewah LEAP Proj.)
+  url: https://github.com/lhky78/RODANG_Leap
+  code: https://github.com/lhky78/RODANG_Leap
+  description: 
+  used:
+    - thing: Android Studio(JAVA)
+    - thing: Node
+
+- name: CommonGood (Gokathon2020)
+  url: https://github.com/lhky78/commongoodhack
+  code: https://github.com/lhky78/commongoodhack
+  description: 
+  used:
+    - thing: React
+    - thing: Node
+    - thing: JavaScript(ES6)    
