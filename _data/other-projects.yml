@@ -1,7 +1,7 @@
 - name: PlanetEarth
   url: https://github.com/planetEarth1886/website
   code: https://github.com/planetEarth1886/website
-  description: description
+  description: Web applications that use natural language processing technology to provide real-time world news keywords
   used:
     - thing: JavaScript(ES6)
     - thing: React
@@ -10,17 +10,17 @@
 - name: DisCountDown (EWHA ORDA)
   url: https://lhky78.github.io/disCountDown.pdf
   code: https://lhky78.github.io/disCountDown.pdf
-  description: description
+  description: Marketing platform services for small business owners based at close quarters
   used:
     - thing: Flutter
     - thing: Node
     - thing: JavaScript
-    - thing: Android
+    - thing: Android Studio(JAVA)
 
 - name: Rockle
   url: https://github.com/lhky78/Rockle
   code: https://github.com/lhky78/Rockle
-  description: description
+  description: Career Sharing Platform(WEB Page & Application) for People with Discontinued Career
   used:
     - thing: HTML & CSS
     - thing: EJS
@@ -30,7 +30,7 @@
 - name: Rodang (Ewah LEAP Proj.)
   url: https://github.com/lhky78/RODANG_Leap
   code: https://github.com/lhky78/RODANG_Leap
-  description: description
+  description: Content & Communication Application offered to address Active Senior depression and role deprivation
   used:
     - thing: Android Studio(JAVA)
     - thing: Node
@@ -38,7 +38,7 @@
 - name: CommonGood (Gokathon2020)
   url: https://github.com/lhky78/commongoodhack
   code: https://github.com/lhky78/commongoodhack
-  description: description
+  description: Easily manage the clubs you join and organize and search for the characteristics of the clubs
   used:
     - thing: React
     - thing: Node
