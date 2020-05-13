@@ -9,7 +9,7 @@
     
 - name: DisCountDown (EWHA ORDA)
   url: https://lhky78.github.io/disCountDown.pdf
-  code: 
+  code: https://lhky78.github.io/disCountDown.pdf
   description: description
   used:
     - thing: Flutter
