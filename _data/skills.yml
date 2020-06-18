@@ -1,20 +1,21 @@
 languages:
   - item: Python
+  - item: C
   - item: Java
   - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS
+  # - item: TypeScript
+  # - item: HTML
+  # - item: CSS
 
 frameworks:
-  - item: React
-  - item: Node
-  - item: Flutter
+  # - item: React
+  # - item: Node
+  # - item: Flutter
   - item: Fabric
   - item: Apollo
-  - item: GraphQL
+  # - item: GraphQL
   - item: BS4(BeautifulSoup)
-  - item: Selenium
+  # - item: Selenium
   - item: Flask
   - item: Angular
   - item: Ionic
@@ -22,19 +23,19 @@ frameworks:
 tools:
   - item: Bash
   - item: PyTorch
-  - item: Anaconda
-  - item: Tensorflow
+  # - item: Anaconda
+  # - item: Tensorflow
   - item: Docker
   - item: Git & Github
-  - item: Chrome DevTools
+  # - item: Chrome DevTools
   - item: Postman
   - item: Figma
   
 AI :
   - item: NLP
   - item: Bert & KoBert
-  - item: Transformers
-  - item: Word2Vec
-  - item: NER
-  - item: GAN
-  - item: CNN
+  # - item: Transformers
+  # - item: Word2Vec
+  # - item: NER
+  # - item: GAN
+  # - item: CNN
