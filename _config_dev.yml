@@ -1,14 +1,14 @@
 # Site settings
-name: Ha Gyeong LEE
-title: Ha Gyeong LEE
-description: 글쓰는 것을 좋아하는, SoftWare Engineer
-url: https://lhky78.github.io/
+name: HaGyeong Lee
+title: HaGyeong Lee
+description: 글쓰는 것을 좋아하는, AI Engineer
+url: https://hagyeonglee.github.io/
 baseurl: ''
 email: lhky0708@gmail.com
 # cover: https://lhky78.github.io/img/og.png
 # logo: https:/lhky78.github.io/img/emojis/technologist.png
-logo: https:/lhky78.github.io/img/emojis/aboutHG.png
-resume: https://lhky78.github.io/Resume_kor_HaGyeongLee.pdf
+logo: https:/hagyeonglee.github.io/img/emojis/aboutHG.png
+resume: https://hagyeonglee.github.io/Resume_kor_HaGyeongLee.pdf
 social:
   - title: email
     url: mailto:lhky0708@gmail.com
@@ -19,7 +19,7 @@ social:
   # - title: codepen
   #   url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/lhky78
+    url: https://github.com/hagyeonglee
   # - title: linkedin
   #   url: https://www.linkedin.com/in/bchiang7
 
